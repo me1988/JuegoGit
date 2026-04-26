@@ -8,9 +8,10 @@ public class PrimerArchivo {
         hola = "nuevo hola";
 
 
+        System.out.println(hola);
 
 
 
-
+    
     }
 }
