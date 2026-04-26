@@ -10,9 +10,6 @@ public class PrimerArchivo {
 
         System.out.println(hola);
 
-        String command = "command uno";
-
-        String nuevo = "nuevo Github";
 
 
     
