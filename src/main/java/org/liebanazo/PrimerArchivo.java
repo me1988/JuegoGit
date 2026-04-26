@@ -9,5 +9,7 @@ public class PrimerArchivo {
 
 
         System.out.println(hola);
+
+        String command = "command uno";
     }
 }
