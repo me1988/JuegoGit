@@ -4,5 +4,7 @@ public class PrimerArchivo {
 
     public static void main(String[] args) {
         String hola = "Primer hola mundo git";
+
+        System.out.println(hola);
     }
 }
