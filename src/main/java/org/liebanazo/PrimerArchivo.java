@@ -12,6 +12,8 @@ public class PrimerArchivo {
 
         String command = "command uno";
 
-        String nuevo = "nuevo desde Github";
+        String nuevo = "nuevo Github";
+
+    
     }
 }
