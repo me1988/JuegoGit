@@ -18,7 +18,7 @@ public class PrimerArchivo {
 
         MERGE
 
-        MERGE NO FAST FORWARD
+
 
     
     }
